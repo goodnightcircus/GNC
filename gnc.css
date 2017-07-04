@@ -120,19 +120,19 @@ img{
 
 .navbar{
 font-size: 18px;
-background-color: rgba(242, 141, 58, 0.8);
+background-color: rgba(247, 171, 109, 0.8);
 font-family: oswald;
 }
 
 #bottomBar{
   position: fixed;
-  background-color: rgba(242, 141, 58, 0.8);
+  background-color: rgba(247, 171, 109, 0.8);
   bottom:0;
   width: 100vw;
   height: 40px;
   border-top: solid 1px white;
   padding: 5px 20px;
-  color: #F28D3A;
+  color: #F7AB6D;
 }
 
 #bottomBar div{
