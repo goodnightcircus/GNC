@@ -62,7 +62,7 @@ var keyData = {
   onplay: onPlay,
   onstop: showPlay               
                    }),
-  title: "Rosetta" 
+  title: "14" 
   },
   2 : {
   sound : new Howl({src: ["music/GNC2.mp3"],
@@ -72,7 +72,7 @@ var keyData = {
   onstop: showPlay  
                     
                    }),
-  title: "Song2" 
+  title: "Swing Baby Swing" 
   }, 
   3 : {
   sound : new Howl({src: ["music/GNC3.mp3"], 
@@ -82,7 +82,7 @@ var keyData = {
   onstop: showPlay  
                     
                     }),
-  title: "Song3"
+  title: "Rathead Stomp"
   }, 
   4 : {
   sound : new Howl({src: ["music/GNC4.mp3"],
@@ -91,7 +91,7 @@ var keyData = {
   onplay: onPlay,
   onstop: showPlay  
                      }),
-  title: "Song4"
+  title: "Twilight in Trakya"
   }
 }  
 
