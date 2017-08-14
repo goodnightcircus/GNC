@@ -28,6 +28,11 @@ $("#contact").click(function(){
    $('#sectFour').show();
 });
 
+$("#bio").click(function(){
+   $('.section').hide();
+   $('#sectFive').show();
+});
+
 var currentTrack = 1;
 $('.fa-pause').hide();
 
@@ -175,6 +180,7 @@ function menuToTurkish(){
   $("#photos").text("Fotograflar");
   $("#videos").text("Videolar");
   $("#contact").text("Irtibat");
+  $("#bio").text("Biyografi");
   $("#language").text("English");
 }
 
@@ -183,5 +189,6 @@ function menuToEnglish(){
   $("#photos").text("Photos");
   $("#videos").text("Videos");
   $("#contact").text("Contact");
+  $("#bio").text("Bio");
   $("#language").text("Türkçe");
 }
