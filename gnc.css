@@ -26,7 +26,7 @@ body {
 }
 
 #home
-   background-image: url("photos/background.jpg") no-repeat center center;
+   background-color: white;
 
 .textContainer {
   border: solid 2px black;
