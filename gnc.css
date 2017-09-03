@@ -14,8 +14,9 @@ img{
 }
 
 body {
-        background-image: url("photos/background.jpg") no-repeat center center;
-        background-size: cover;
+        background-image: url("photos/background.jpg");
+        background-repeat: no-repeat;
+        background-position: center;
 }
 
 #logo{
