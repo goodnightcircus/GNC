@@ -14,7 +14,7 @@ img{
   width: 100%;
 }
 
-body{
+html{
         background-image: url("photos/background.jpg");
         background-size: cover; 
         background-repeat: no-repeat;
