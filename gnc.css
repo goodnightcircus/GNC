@@ -10,7 +10,14 @@ body{
         
 }
 
-
+img{
+  margin: 10px auto;
+  border-radius: 5px;
+  border: solid 2px black;
+  object-fit: cover;
+  max-height: 200px;
+  width: 100%;
+}
 
 
 
