@@ -13,6 +13,10 @@ img{
   width: 100%;
 }
 
+body {
+        background-image: url("photos/background.jpg");
+}
+
 #logo{
   border: none;
   width: 100px;
@@ -21,9 +25,7 @@ img{
 }
 
 #home
-body {
-        background-image: url("photos/background.jpg");
-}
+ background-color: white;
 
 .textContainer {
   border: solid 2px black;
