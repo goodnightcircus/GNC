@@ -32,12 +32,11 @@ body{
 #home
       
 .textContainer {
-  border: solid 2px black;
   margin: 100px auto;
   width: 70vw;
   height: 50vh;
 -webkit-background-size: cover;
--moz-background-size: cover;
+-moz-background-size: cover
 -o-background-size: cover;
   background-size: cover;
   border-radius:8px;
