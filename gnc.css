@@ -29,9 +29,7 @@ img{
 }
 
 #home
-    background-image: url("photos/background.jpg"); 
-        background-repeat: no-repeat;
-        background-position: center center;
+    background-color: white;
 
 .textContainer {
   border: solid 2px black;
