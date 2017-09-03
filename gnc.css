@@ -15,9 +15,10 @@ img{
 }
 
 body{
-        background-image: url("photos/background.jpg"); 
+        background-image: url("photos/background.jpg");
+        background-size: cover; 
         background-repeat: no-repeat;
-        background-position: right;
+        background-position: center center;
        
 }
 
@@ -36,7 +37,7 @@ body{
    height: 50vh;
  
 -webkit-background-size: cover;
--moz-background-size: cover
+-moz-background-size: cover;
 -o-background-size: cover;
   background-size: cover;
   border-radius:8px;
