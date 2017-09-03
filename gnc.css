@@ -18,7 +18,7 @@ body{
         background-image: url("photos/Logo.gif"); 
         background-repeat: no-repeat;
         background-position: center center;
-        background-size: 70%;
+        background-size: 60%;
         
 }
 
@@ -33,7 +33,7 @@ body{
       
 .textContainer {
   border: solid 2px black;
-  margin: 10px auto;
+  margin: 30px auto;
   width: 70vw;
   height: 50vh;
   background: url("photos/GNC8.jpg") no-repeat center center;
