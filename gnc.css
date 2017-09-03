@@ -25,7 +25,7 @@ body {
 }
 
 #home
-  background-color: white;
+  background-color: transparent;
 
 .textContainer {
   border: solid 2px black;
@@ -48,9 +48,7 @@ body {
   width: 50vw;
   min-width: 240px;
   color: black;
-  background-color: white;
-  filter: alpha(opacity=10);
-  opacity: 0.1;
+  background-color: transparent;
   padding: 0px 15px;
   text-align: center;
 }
