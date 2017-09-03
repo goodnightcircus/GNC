@@ -16,7 +16,7 @@ img{
 body {
         background-image: url("photos/background.jpg");
         background-repeat: no-repeat;
-        background-position: top left;
+        background-position: left top;
 }
 
 #logo{
