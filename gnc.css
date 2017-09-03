@@ -15,10 +15,10 @@ img{
 }
 
 body{
-        background-image: url("photos/Logo.gif"); 
+        background-image: url("photos/background.jpg"); 
         background-repeat: no-repeat;
         background-position: center center;
-        background-size: 60%;
+        background-size: 120%;
         
 }
 
