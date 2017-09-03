@@ -17,8 +17,8 @@ img{
 body{
         background-image: url("photos/background.jpg"); 
         background-repeat: no-repeat;
-        background-position: right center;
-        background-size: 120%;
+        background-position: right;
+        background-size: 100%;
         
 }
 
