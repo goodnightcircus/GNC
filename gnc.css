@@ -32,13 +32,10 @@ body{
 #home
       
 .textContainer {
-     margin: 10px auto;
+   margin: 100px auto;
    width: 70vw;
    height: 50vh;
-   background: url("photos/gnclogo2.png") no-repeat center center
-  margin: 100px auto;
-  width: 70vw;
-  height: 50vh;
+   background: url("photos/gnclogo2.png") no-repeat center center;
 -webkit-background-size: cover;
 -moz-background-size: cover
 -o-background-size: cover;
