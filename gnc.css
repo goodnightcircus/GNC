@@ -13,8 +13,10 @@ img{
   width: 100%;
 }
 
-body {
-        background-image: url("photos/background.jpg") no-repeat center center;
+body{
+        background-image: url("photos/background.jpg"); 
+        background-repeat: no-repeat;
+        background-position: center center;
         
 }
 
