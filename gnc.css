@@ -1,14 +1,9 @@
 @font-face {
     font-family: 'oswald';
-    src: url('/Zenone.ttf');
+    src: url('./Zenone.ttf');
 }
 
-body{
-        background-image: url("photos/background.jpg"); 
-        background-repeat: no-repeat;
-        background-position: center center;
-        
-}
+
 
 img{
   margin: 10px auto;
@@ -19,7 +14,12 @@ img{
   width: 100%;
 }
 
-
+body{
+        background-image: url("photos/background.jpg"); 
+        background-repeat: no-repeat;
+        background-position: center center;
+        
+}
 
 #logo{
   border: none;
