@@ -20,8 +20,9 @@ img{
   margin-bottom: 20px;
 }
 
-#home{
-  background-color: white;
+#home
+body {
+        background-image: url("photos/background.jpg");
 }
 
 .textContainer {
