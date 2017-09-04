@@ -15,6 +15,7 @@ img{
 }
 
 body{
+        font-size: 100%;
         background-color: black;
         width: 100%;
         height: auto;
@@ -52,7 +53,7 @@ body{
   position: relative;
   margin: 5px auto;
   margin-bottom: 25px;
-  font-size: 15px;
+  font-size: 1em;
   width: 50vw;
   min-width: 240px;
   color: white;
@@ -69,7 +70,7 @@ body{
   padding-bottom: 20px;
   text-align: center;
   height: 10vh;
-  font-size: 12px;
+  font-size: .75em;
 }
 
 #sectOne { 
@@ -129,12 +130,12 @@ body{
 }
 
 .navbar-brand{
-  font-size: 25px;
+  font-size: 1.56em;
 }
 
 
 .navbar{
-font-size: 18px;
+font-size: 1.125em;
 background-color: rgba(247, 171, 109, 0.8);
 font-family: oswald;
 }
