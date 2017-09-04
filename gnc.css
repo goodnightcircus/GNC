@@ -15,10 +15,9 @@ img{
 }
 
 html{
-        background-image: url("photos/background.jpg");
+        background-image: url("photos/background.jpg") no-repeat center fixed;
         background-size: cover; 
-        background-repeat: no-repeat;
-        background-position: center center;
+      
        
 }
 
