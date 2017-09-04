@@ -10,7 +10,7 @@ img{
   border-radius: 5px;
   border: solid 2px black;
   object-fit: cover;
-  max-height: 200px;
+  max-height: 400px;
   width: 100%;
 }
 
