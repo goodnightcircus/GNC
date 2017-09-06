@@ -136,13 +136,13 @@ body{
 
 .navbar{
 font-size: 1.4em;
-background-color: rgba (203, 31, 31, 0.8);
+background-color: rgba (203, 31, 31);
 font-family: oswald;
 }
 
 #bottomBar{
   position: fixed;
-  background-color: rgba (203, 31, 31, 0.8);
+  background-color: rgba (203, 31, 31);
   bottom:0;
   width: 100vw;
   height: 40px;
