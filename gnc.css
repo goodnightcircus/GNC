@@ -70,7 +70,7 @@ body{
   padding-bottom: 20px;
   text-align: center;
   height: 10vh;
-  font-size: 1em;
+  font-size: 1.4em;
 }
 
 #sectOne { 
@@ -148,7 +148,7 @@ font-family: oswald;
   height: 40px;
   border-top: solid 1px black;
   padding: 5px 20px;
-  color: #F7AB6D;
+  color: #5A1A1A;
 }
 
 #bottomBar div{
@@ -179,7 +179,7 @@ span{
 
 
 .fa{
-  color: #5E5E5E;
+  color: #5A1A1A;
 }
 
 h1{
