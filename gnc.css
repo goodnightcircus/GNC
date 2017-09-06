@@ -30,7 +30,7 @@ body{
 
 #logo{
   border: none;
-  width: 500px;
+  width: 300px;
   height: auto;
   margin-bottom: 20px;
 }
@@ -130,12 +130,12 @@ body{
 }
 
 .navbar-brand{
-  font-size: 1.8em;
+  font-size: 2.2em;
 }
 
 
 .navbar{
-font-size: 1.4em;
+font-size: 1.8em;
 background-color: rgba(203, 31, 31, 0.8);
 font-family: oswald;
 }
