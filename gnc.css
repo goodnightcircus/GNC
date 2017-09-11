@@ -44,7 +44,6 @@ body{
 
 .textContainer {
     display: inline-block;
-   margin: 100px auto;
    width: cover;
    height: auto;
  
@@ -61,7 +60,6 @@ body{
   margin-bottom: 25px;
   font-size: 1.2em;
   width: cover;
-  min-width: 240px;
   color: white;
   background-color: transparent;
   padding: 0px 15px;
