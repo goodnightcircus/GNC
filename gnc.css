@@ -41,8 +41,8 @@ body{
       
 .textContainer {
    margin: 100px auto;
-   width: 70vw;
-   height: 50vh;
+   width: 100%;
+   height: auto;
  
 -webkit-background-size: cover;
 -moz-background-size: cover;
