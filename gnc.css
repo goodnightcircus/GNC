@@ -70,6 +70,7 @@ body{
 
 #videoBox{
     background: cover;
+    border: 0px;
      position: absolute;
     padding-top: 25px;
     padding-bottom: 67.5%;
