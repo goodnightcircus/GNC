@@ -71,9 +71,9 @@ body{
 .videoBox{
     position: relative;
     margin: 5px auto;
-    min-width: 500px;
+    min-width: 100px;
     width: 100%;
-    height: 100%;
+    height: auto;
 }
 
 #home span{
