@@ -73,6 +73,7 @@ body{
     padding-top: 25px;
     padding-bottom: 67.5%;
     height: 0;
+    width: 100%;
     margin-bottom: 0;
     overflow: hidden;
 }
