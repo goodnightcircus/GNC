@@ -68,8 +68,8 @@ body{
 
 .videoBox{
     display: inline-block;
-    width: cover;
-    height: auto;
+    width: 100%;
+    height: 100%;
 }
 
 #home span{
