@@ -70,11 +70,12 @@ body{
 
 #videoBox{
     background: cover;
-     position: relative;
+     position: absolute;
     padding-top: 25px;
     padding-bottom: 67.5%;
-    height: auto;
+    height: 100%;
     width: 100%;
+    transform: translate3d(0px, 0px, 0px)
     margin: 5px;
     overflow: hidden;
 }
