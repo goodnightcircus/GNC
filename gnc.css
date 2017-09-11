@@ -66,6 +66,12 @@ body{
   text-align: center;
 }
 
+.videoBox{
+    display: inline-block;
+    width: cover;
+    height: auto;
+}
+
 #home span{
   font-family:  oswald;
 }
