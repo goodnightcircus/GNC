@@ -69,10 +69,10 @@ body{
 }
 
 .videoBox{
-     position: relative;
+     position: absolute;
     padding-top: 25px;
     padding-bottom: 67.5%;
-    height: 0;
+    height: 100%;
     width: 100%;
     margin-bottom: 0;
     overflow: hidden;
