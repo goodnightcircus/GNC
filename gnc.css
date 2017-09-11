@@ -35,7 +35,7 @@ body{
 #logo{
   border: none;
   width: cover;
-  height: auto;
+  height: 100%;
   margin-bottom: 20px;
 }
 
