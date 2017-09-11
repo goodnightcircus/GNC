@@ -33,6 +33,7 @@ body{
 
 #logo{
   border: 100px;
+  min-width: 500px;
   width: 50%;
   height: 50%;
   margin-bottom: 20px;
