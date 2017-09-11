@@ -33,7 +33,7 @@ body{
 
 #logo{
   border: none;
-  width: cover;
+  width: 100%;
   height: 100%;
   margin-bottom: 20px;
 }
