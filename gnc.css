@@ -68,7 +68,8 @@ body{
   text-align: center;
 }
 
-.videoBox{
+#videoBox{
+    background: cover;
      position: absolute;
     padding-top: 25px;
     padding-bottom: 67.5%;
