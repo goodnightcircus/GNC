@@ -14,7 +14,6 @@ img{
 }
 
 video {
-    min-width: 500px;
     width: 100%;
     height: auto;
 }
@@ -70,7 +69,7 @@ body{
 }
 
 .videoBox{
-    display: inline-block;
+    min-width: 500px;
     width: 100%;
     height: 100%;
 }
